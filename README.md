@@ -24,6 +24,13 @@ Unlike simple encryption, this system utilizes **Digital Signatures (RS256)** to
 
 ---
 
+### 📊 Database Forensic Evidence
+![MongoDB Logs](database_evidence.jpg)
+*Real-time capture of the attacker's IP address and device fingerprint in MongoDB.*
+
+
+---
+
 ## 🚀 Key Features
 
 ### 🔐 Cryptographic Security
